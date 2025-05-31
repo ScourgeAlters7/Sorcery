@@ -1,1 +1,3 @@
 Copy and paste the image below into your mod folder for Sorcery. On windows this is going to be in Documents > My Games > Tabletop Simulator > Mods > Images. You'll need to replace the existing playmat file with the same name.
+The name of the file for the playmat in your Images folder is is httpssteamusercontentaakamaihdnetugc2458493930748633818AC370E3402228A9FB441339F4A1536AA897CF43D.jpg
+If you're using the Playmat Outline PNG file, just bring that file into your editing program and then put whatever image or color you want for your playmat on a layer underneath it. Then save it out to your Images folder in the TTS Mods folder using the filename from above.
